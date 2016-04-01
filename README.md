@@ -1,6 +1,6 @@
 # barcode.el
 
-libbarcode binding of Emacs Lisp.
+[libbarcode](http://www.gnu.org/software/barcode/) binding of Emacs Lisp.
 
 ## Screenshot
 
