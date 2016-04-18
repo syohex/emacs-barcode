@@ -25,8 +25,6 @@
 #include <emacs-module.h>
 
 #include <barcode.h>
-#include <GeoIP.h>
-#include <GeoIPCity.h>
 
 int plugin_is_GPL_compatible;
 
