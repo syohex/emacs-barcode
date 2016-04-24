@@ -12,7 +12,7 @@
 
 ## Usage
 
-#### `(barcode-encode string encoding-type)`
+#### `(barcode-encode string &optional encoding-type)`
 
 Encode string to barcode by `encoding-type`.
 
